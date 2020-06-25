@@ -9,8 +9,6 @@ clean, minimalistic design and a sticky sidebar with navigation-linked scrolling
 Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
 more of her amazing work over at deviantART:
 
-http://ineedchemicalx.deviantart.com/
-
 (* = Not included! Only meant for use with my own on-site demo, so please do NOT download
 and/or use any of Felicia's work without her explicit permission!)
 
